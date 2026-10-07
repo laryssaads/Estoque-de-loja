@@ -41,3 +41,16 @@ Além do CRUD, o sistema permite registrar vendas, diminuindo a quantidade dispo
 - `if/else`
 - Booleanos
 - Operações com vetores
+
+## Divisão do trabalho
+
+### Laryssa
+- Case 1: Cadastrar produto
+- Case 2: Listar produtos
+- Case 3: Atualizar produto
+
+### Julia
+- Case 4: Excluir produto
+- Case 5: Registrar venda
+- Case 6: Ver estoque baixo
+- Case 7: Sair
